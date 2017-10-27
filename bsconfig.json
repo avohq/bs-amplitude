@@ -1,0 +1,13 @@
+{
+  "name": "bs-amplitude",
+  "version": "0.1.0",
+  "sources": [
+    "src"
+  ],
+  "bs-dependencies" : [
+  ],
+  "namespace": true,
+  "generate-merlin": true,
+  "bsc-flags": ["-bs-super-errors"],
+  "suffix": ".bs.js"
+}
