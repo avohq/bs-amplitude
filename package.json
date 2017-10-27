@@ -15,5 +15,8 @@
   },
   "dependencies": {
     "amplitude": "^3.5.0"
-  }
+  },
+  "description": "BuckleScript bindings for amplitude",
+  "repository": "git@github.com:viskahq/bs-amplitude.git",
+  "author": ""
 }
