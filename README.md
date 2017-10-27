@@ -1,16 +1,8 @@
+This package contains bucklescript bindings for [amplitude](https://www.npmjs.com/package/amplitude)
 
-
-# Build
-```
-npm run build
-```
-
-# Watch
+### Getting started
+Make sure to have bs-platform installed
 
 ```
-npm run watch
+yarn add bs-amplitude
 ```
-
-
-# Editor
-If you use `vscode`, Press `Windows + Shift + B` it will build automatically
